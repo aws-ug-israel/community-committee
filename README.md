@@ -28,3 +28,4 @@ You can check our issues for more initiatives [here](https://github.com/aws-ug-i
 * [TalHibner](https://github.com/TalHibner) - **Tal Hibner** &lt;eitan.sela@gmail.com&gt;
 * **Doron Rogov** &lt;doronrogov@gmail.com&gt;
 * [ziniman](https://github.com/ziniman) - **Boaz Ziniman** &lt;boazz@amazon.com&gt;
+
